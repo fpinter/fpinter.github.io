@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some linear algebra for econometrics""
+title: "Some linear algebra for econometrics"
 date: 2020-01-16
 categories: math
 ---
