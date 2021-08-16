@@ -5,9 +5,9 @@ date: 2020-01-16
 categories: math
 ---
 
-Students of econometrics who want to learn concepts more deeply are often confronted by the need to know some abstract linear algebra. This is especially the case in econometrics courses that emphasize the mathematical properties of ordinary least squares.
+In econometrics, getting a deep understanding of concepts often requires learning some abstract linear algebra. For example, the mathematical properties of ordinary least squares are easier to understand once you know the projection theorem.
 
-As an instructor in the Harvard Economics math camp in August 2019, I prepared notes to help with this problem. They are aimed at students who are familiar with abstract math, but have not taken (or may not remember) much abstract linear algebra or functional analysis.
+As an instructor in the Harvard Economics math camp in August 2019, I prepared notes to help fill in this background. They most useful if you have taken abstract math and the basics of linear algebra, but didn't take (or don't really remember) abstract linear algebra or functional analysis.
 
 They cover the following linear algebra topics:
 
@@ -19,6 +19,6 @@ They cover the following linear algebra topics:
 5. Basic matrix decompositions: singular value and Cholesky
 6. The Kronecker tensor product
 
-These topics were chosen because of the specific requirements of the Harvard first-year course. Different presentations of econometrics will use these topics differently. In addition, these notes do not replace a good course in linear algebra: they have no proofs, few examples, and no computational details.
+These topics were chosen because they are the basic prerequisites of the Harvard first-year econometrics course. Other econometrics courses will use these topics differently. In addition, these notes do not replace a course in linear algebra: they have no proofs, few examples, and no computational details.
 
 **Notes: [Some Linear Algebra for Econometrics]({{"/notes/linear-algebra-notes.pdf" | absolute_url }})**
