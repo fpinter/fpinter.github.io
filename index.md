@@ -2,6 +2,8 @@
 layout: page
 title: About me
 permalink: /
+redirect_from:
+    - /about/
 ---
 
 I am a PhD student in Business Economics at Harvard University, specializing in industrial organization. My research studies the operation of government policy in oligopolistic industries, focusing particularly on environmental policy.
