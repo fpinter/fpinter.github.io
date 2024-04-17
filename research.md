@@ -11,4 +11,6 @@ title: Research
 
 ## Work in Progress
 
-* "Roadside Infrastructure, Parking, and Electric Trucks" (with [Ron Yang](https://www.rnyang.net/))
+* "Roadside Infrastructure, Parking, and Electric Trucks" (with Sarah Armitage and [Ron Yang](https://www.rnyang.net/))
+
+* "Complementarities and Optimal Targeting of Electric Vehicle and Solar PV Subsidies" (with [Jacob Bradt](https://jacobbradt.com/))
