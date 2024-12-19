@@ -12,5 +12,5 @@ title: Research
 ## Work in Progress
 
 * "Roadside Infrastructure, Parking, and Electric Trucks" (with Sarah Armitage and [Ron Yang](https://www.rnyang.net/))
-
 * "Complementarities and Optimal Targeting of Electric Vehicle and Solar PV Subsidies" (with [Jacob Bradt](https://jacobbradt.com/))
+* "How Does Consumer Voice Respond to Antitrust Policy? Evidence from Supermarket Divestitures" (with [Daniel Hosken](https://www.ftc.gov/about-ftc/commissioners-staff/daniel-s-hosken) and [Devesh Raval](https://www.devesh-raval.com/))
